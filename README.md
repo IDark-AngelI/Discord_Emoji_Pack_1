@@ -1,7 +1,7 @@
 # Discord Emoji Pack 1
 [EN]
  
-This Pack Contain 50 Discord Emojis, 25 PNG Emojis and 25 Gif Emojis.
+This Pack Contain 50 Discord Emojis, 25 PNG Emojis and 25 Gif Emojis and they all are under 256kb.
 
 -----------------------------------------
 How to use?
@@ -18,7 +18,7 @@ Pack By Dark_Angel#0218
 # Pack Emoji Discord  1
 [FA]
 
-in Pack shamele 50 Emoji ast, 25 Emoji PNG va 25 Emoji Gif.
+in Pack shamele 50 Emoji ast, 25 Emoji PNG va 25 Emoji Gif va hame anha zire 256kb hastand.
 
 -----------------------------------------
 Amoozesh
